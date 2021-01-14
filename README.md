@@ -27,7 +27,7 @@ Imagine you are working on a big project. It is a big site that has some bugs in
 
 ## Exercise 3: Pull Requests & Large Projects
 
-Ever wonder how large projects keep repositories open while still ensuring that the code works? Simmilairly to how you are using 
+Ever wonder how large projects keep repositories open while still ensuring that the code works? Similarly to how you are using 
 
 1. Once you have completed all of the exercises and your team bio and information is accurate make sure that your `main` branch has all of the changes merged.
 2. On GitHub on the main page of your repository, click the pull request button. ![Pull Message](assets/statusPull.JPG)
