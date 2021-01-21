@@ -1,4 +1,8 @@
-# Hack Your Learning: Session 1 - Part 2
+<div>
+<img src="http://drive.google.com/uc?export=view&id=1MADw5CwZYysojTdKwgfJEJpAHdO1Jxoq">
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Space Mono', sans-serif;">Hack Your Learning: Session 1 - Part 2
+</h1>
+</div>
 
 ## Introduction
 
