@@ -1,0 +1,8 @@
+# This file tells github which files to not track or "ignore"
+
+# .DS_Store is a hidden folder in most mac folders, it contains information about the folder
+#   this may include things like the positioning of folders on screen or custom icons
+.DS_Store
+
+# Check out more on the .gitignore file here: 
+#   https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/
