@@ -22,7 +22,7 @@ This will be a brief overview on how to set up your repository for this exercise
 
 ## Exercise 2: Conflicts and Merging
 
-One of the biggest challenges with collaboratively coding that can be overcome is conflicts between different versions of code. However, it can become difficult to review these conflicts and fix them within a command line interface and basic text editor. We suggest you use an Integrated Development EEnvironment (IDE). Our preferred IDE is [VSCode](https://code.visualstudio.com/).
+One of the biggest challenges with collaboratively coding that can be overcome is conflicts between different versions of code. However, it can become difficult to review these conflicts and fix them within a command line interface and basic text editor. We suggest you use an Integrated Development Environment (IDE). Our preferred IDE is [VSCode](https://code.visualstudio.com/).
 
 1. To start this exercise each team member should make a branch to add their name to the main file. To keep things organized use the naming convention `feat/<yourname>/teamfile` for this branch.
 2. Make sure that you are editing on the branch that you just created
