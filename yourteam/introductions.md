@@ -18,5 +18,5 @@ Links to each team member's bio page. Add a link for each team member
 
 [Momin Ali Khan](https://github.com/mominalikhan007/retreat1-ex2/blob/Momin/yourteam/Ali.md)
 [Ali](/ali.md)
-[Henrique](/henrique.md)
+[Henrique](https://github.com/mominalikhan007/retreat1-ex2/blob/main/yourteam/henrique.md)
 
