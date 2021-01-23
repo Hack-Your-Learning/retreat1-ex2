@@ -11,7 +11,27 @@ This repository includes information about our team. To view information on a te
 Make sure to include a quick description about your team.
 
 ## Team Members
-Viet An Truong (Marco)
+
+
 Links to each team member's bio page. Add a link for each team member.
 
+
+Karl Winkler
+
+Henry Wu
+
+Carter Fuchs
+
+Viet An Truong (Marco)
+
+Links to each team member's bio page. Add a link for each team member.
+
+
+[Carter](/Carter.md)
+
+[Karl](/karl.md)
+
+[Henry](/henry.md)
+
 [Marco](/Marco.md)
+
