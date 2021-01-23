@@ -14,4 +14,5 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
+Lubaba Sheikh
 [Team Member 1](/member1.md)
