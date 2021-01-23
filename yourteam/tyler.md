@@ -3,19 +3,19 @@
 </h1>
 </div>
 
-##Introduction
+## Introduction
 
 Hi, my name is Joe!
 
-##Occupation
+## Occupation
 
 I work in the Button Factory!
 
-##A Little About Me
+## A Little About Me
 
 I have a wife and a dog and a family!
 
-##Diary
+## Diary
 
 Today, my boss came up to me and said:
 
