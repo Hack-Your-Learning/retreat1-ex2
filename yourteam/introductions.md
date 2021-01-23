@@ -16,4 +16,4 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Maarya](/maarya.md)
 [Lubaba Sheikh](/lubaba.md)
-[Heidi]/(Heidi.md)
+[Heidi](/Heidi.md)
