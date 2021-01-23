@@ -11,8 +11,9 @@ This repository includes information about our team. To view information on a te
 Make sure to include a quick description about your team.
 
 ## Team Members
-Tyler Tran
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Team Member 1](/member1.md)
+[Tyler](/tylertran.md)
+
+[Dat Lam](/datlam.md)
