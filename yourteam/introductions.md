@@ -19,4 +19,3 @@ Links to each team member's bio page. Add a link for each team member.
 [Braden Foley](/Braden.md)
 [Greg](/Greg.md)
 [Adam Pezoulas](/Adam.md)
-
