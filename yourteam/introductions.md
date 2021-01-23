@@ -15,4 +15,4 @@ ZetaC is a team comprising of 3 members. Ali, Henrique and Momin.
 Links to each team member's bio page. Add a link for each team member.
 
 
-[Momin Ali Khan](/https://github.com/mominalikhan007/retreat1-ex2/blob/Momin/yourteam/Ali.md)
+[Momin Ali Khan](https://github.com/mominalikhan007/retreat1-ex2/blob/Momin/yourteam/Ali.md)
