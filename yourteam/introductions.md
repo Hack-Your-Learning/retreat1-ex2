@@ -18,4 +18,4 @@ Links to each team member's bio page. Add a link for each team member.
 [Sajid Hafiz](/sajid.md)
 [Saud Agha](/saud.md)
 [Rohan Amjad](/rohan.md)
-[Azlan Amjad]
+[Azlan Amjad](/azlan.md)
