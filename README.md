@@ -124,3 +124,4 @@ As you start to use git more in your projects you may encounter some abnormal be
 ### Public/ Private Repositories
 
 When using Github you can customize the restrictions on your repositories. The most basic way of securing a repository is by making it private. Github requires you to have a paid account for access to this feature. As a student you are eligible for a free premium account among other perks. You can view more information on [Github Education here](https://education.github.com/students).
+# 
