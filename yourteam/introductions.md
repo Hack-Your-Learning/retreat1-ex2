@@ -1,5 +1,5 @@
 ---
-title: student introductions
+title: Momin,Henrique
 description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
