@@ -6,12 +6,12 @@ help: "make a mark down file for each student"
 
 # Your Team Name
 
-This repository includes information about our team. To view information on a team member click the link below.
+Team Calgary Duals
 
-Make sure to include a quick description about your team.
+Noob programmers trying to learn git
 
 ## Team Members
 
-Links to each team member's bio page. Add a link for each team member.
+[Terrence Kuang](/yourteam/Terrence.md)
 
-[Team Member 1](/member1.md)
+[Arjun Sivaprasadam](/yourteam/Arjun.md)
