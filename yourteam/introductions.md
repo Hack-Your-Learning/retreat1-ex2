@@ -1,19 +1,24 @@
 ---
-title: student introductions Ali Ahmed 
+
+title: Momin Henrique
+
 description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# Your Team Name
+# ZetaC
 
-This repository includes information about our team. To view information on a team member click the link below.
+ZetaC is a team comprising of 3 members. Ali, Henrique and Momin.
 
-Make sure to include a quick description about your team.
+
 
 ## Team Members
 
-Links to each team member's bio page. Add a link for each team member.
+Links to each team member's bio page. Add a link for each team member
+
+[Momin Ali Khan](https://github.com/mominalikhan007/retreat1-ex2/blob/Momin/yourteam/Ali.md)
 
 [Risat](/risat.md)
 [Ali](/ali.md)
 [Henrique](/henrique.md)
+
