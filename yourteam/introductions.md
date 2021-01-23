@@ -27,4 +27,6 @@ Idk what bio page they talkin about
 [Kevin V](https://github.com/kevin-van)
 [Vanessa C](https://github.com/vanessahychen)
 [Team Member 3](/member1.md)
+[Team Member 2](/member1.md)
+[Matthew M](https://www.linkedin.com/in/matthew-mcconnell-656472204/)
 [Team Member 4](/member1.md)
