@@ -21,8 +21,7 @@ Matt - Normie Pleb
 ## Team Members
 Links to each team member's bio page. Add a link for each team member.
 
-Idk what bio page they talkin about
 [Kevin V](/kevin.md) (https://github.com/kevin-van)
-[Vanessa C](https://github.com/vanessahychen)
-[Matthew M](https://www.linkedin.com/in/matthew-mcconnell-656472204/)
+[Vanessa C](/vanessa.md)(https://github.com/vanessahychen)
+[Matthew M](/matthew.md)(https://www.linkedin.com/in/matthew-mcconnell-656472204/)
 [Kenny Jeon](/myname.md) (https://github.com/Kjeon7)
