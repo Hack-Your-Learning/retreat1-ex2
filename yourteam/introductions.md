@@ -25,4 +25,4 @@ Idk what bio page they talkin about
 [Kevin V](/kevin.md) (https://github.com/kevin-van)
 [Vanessa C](https://github.com/vanessahychen)
 [Matthew M](https://www.linkedin.com/in/matthew-mcconnell-656472204/)
-[Kenny Jeon](https://github.com/Kjeon7)
+[Kenny Jeon](/myname.md) (https://github.com/Kjeon7)
