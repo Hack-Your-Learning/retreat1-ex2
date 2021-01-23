@@ -16,3 +16,5 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Risat](/risat.md)
 [Henrique](/Henrique.md)
+[Ali Ahmed](/AliAhmed.md)
+[Momin Ali Khan](/Ali.md)
