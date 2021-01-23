@@ -7,7 +7,7 @@ help: "make a mark down file for each student"
 # thirteam
 
 This repository includes information about our team. To view information on a team member click the link below.
-We are trying to learn more coding!
+<p>We are trying to learn more coding!
 
 ## Tyler
 
