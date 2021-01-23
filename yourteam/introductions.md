@@ -16,7 +16,7 @@ Links to each team member's bio page. Add a link for each team member.
 
 
 [Team Member 1](/member1.md)
-[Greg](https://github.com/GregoryOrd)
+[Greg](/Greg.md)
 [Braden Foley](https://github.com/MRInfected101)
 [Adam Pezoulas](/Adam.md)
 
