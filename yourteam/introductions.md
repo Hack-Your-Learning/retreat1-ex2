@@ -23,5 +23,7 @@ I don't like bugs...
 Links to each team member's bio page. Add a link for each team member.
 
 https://github.com/ttylong/retreat1-ex2/tree/feat/stalin/myfile
+
 https://github.com/ttylong/retreat1-ex2/tree/feat/alexis/myfile
+
 https://github.com/ttylong/retreat1-ex2/tree/feat/tyler/myfile
