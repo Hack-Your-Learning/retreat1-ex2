@@ -16,6 +16,8 @@ Karl Winkler
 
 Henry Wu
 
+Carter Fuchs
+
 Links to each team member's bio page. Add a link for each team member.
 
 
