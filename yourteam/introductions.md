@@ -12,5 +12,6 @@ Noob programmers trying to learn git
 
 ## Team Members
 
-[Terrence](/Terrence.md)
-[Arjun](/Arjun.md)
+[Terrence Kuang](/Terrence.md)
+
+[Arjun Sivaprasadam](/Arjun.md)
