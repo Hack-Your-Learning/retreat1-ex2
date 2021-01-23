@@ -20,3 +20,6 @@ Links to each team member's bio page. Add a link for each team member.
 [Qinglan Lin] qinglan.md
 
 [Beau](/BeauSLM.md)
+
+[Risat](/risat.md)
+
