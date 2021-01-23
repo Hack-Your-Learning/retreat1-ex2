@@ -14,5 +14,5 @@ This repository includes information about our team. To view information on a te
 Links to each team member's bio page. Add a link for each team member.
 
 https://github.com/ttylong/retreat1-ex2/tree/bio/stalin
-https://github.com/ttylong/retreat1-ex2/tree/bio/tyler
-https://github.com/ttylong/retreat1-ex2/tree/bio/alexis
+<p>https://github.com/ttylong/retreat1-ex2/tree/bio/tyler
+<p>https://github.com/ttylong/retreat1-ex2/tree/bio/alexis
