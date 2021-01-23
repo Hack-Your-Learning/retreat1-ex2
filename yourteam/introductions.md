@@ -1,5 +1,5 @@
 ---
-title: student introductions Ali Ahmed
+title: student introductions Ali Ahmed 
 description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
@@ -15,3 +15,4 @@ Make sure to include a quick description about your team.
 Links to each team member's bio page. Add a link for each team member.
 
 [Risat](/risat.md)
+[Ali](/ali.md)
