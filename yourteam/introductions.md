@@ -8,18 +8,9 @@ help: "make a mark down file for each student"
 
 Team Calgary Duals
 
-This repository includes information about our team. To view information on a team member click the1 link below.
-
-Make sure to include a quick description about your team.
+Noob programmers trying to learn git
 
 ## Team Members
 
-
-bio/Terrence: https://github.com/terrencekuang
-
-bio/Arjun: https://github.com/arjun-sivaprasadam
-
-
-Links to each team member's bio page. Add a link for each team member.
-
-[Team Member 1](/member1.md)
+[Terrence](/Terrence.md)
+[Arjun](/Arjun.md)
