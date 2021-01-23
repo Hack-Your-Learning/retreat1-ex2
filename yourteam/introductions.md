@@ -8,14 +8,6 @@ help: "make a mark down file for each student"
 
 This repo includes info about or team. We love coding, especially when there are many bugs in our code. 
 
-## Stalin
-
-I love coding bugs!
-
-## Alexis
-
-I love butterflies!
-
 ## Tyler
 
 I don't like bugs...
