@@ -19,8 +19,6 @@ Vanessa - Half Weeb
 Matt - Normie Pleb
 
 ## Team Members
-Kevin V
-
 Links to each team member's bio page. Add a link for each team member.
 
 Idk what bio page they talkin about
