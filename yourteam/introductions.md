@@ -14,4 +14,4 @@ Make sure to include a quick description about your team.
 Viet An Truong (Marco)
 Links to each team member's bio page. Add a link for each team member.
 
-[Team Member 1](/member1.md)
+[Marco](/Marco.md)
