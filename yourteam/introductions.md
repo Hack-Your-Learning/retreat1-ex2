@@ -15,7 +15,7 @@ Make sure to include a quick description about your team.
 Links to each team member's bio page. Add a link for each team member.
 
 [Team Member 1](/member1.md)
-[Sajid Hafiz] (/sajid.md)
-[Saud Agha] (/saud.md)
-[Rohan Amjad] (/rohan.md)
+[Sajid Hafiz](/sajid.md)
+[Saud Agha](/saud.md)
+[Rohan Amjad](/rohan.md)
 [Azlan Amjad]
