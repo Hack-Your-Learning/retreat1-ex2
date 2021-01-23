@@ -8,7 +8,7 @@ help: "make a mark down file for each student"
 
 This repository includes information about our team. To view information on a team member click the link below.
 
-Just a bunch of normal people who want to throw their chipotle, as normal people do. 
+Just a bunch of normal people who want to throw their chipotle, as normal people do. Don't worry about it. 
 
 ## Team Members
 
