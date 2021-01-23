@@ -17,3 +17,4 @@ Links to each team member's bio page. Add a link for each team member.
 [Team Member 1](/member1.md)
 [Sajid Hafiz]
 [Saud Agha]
+[Rohan Amjad]
