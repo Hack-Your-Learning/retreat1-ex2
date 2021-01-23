@@ -14,6 +14,6 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Joshua Duha](yourteam/JoshuaDuha.md)
+[Joshua Duha](/JoshuaDuha.md)
 [Nikhil Naikar](/NikhilNaikar.md)
 [Andres Caicedo](/AndresCaicedo.md)
