@@ -18,4 +18,4 @@ Links to each team member's bio page. Add a link for each team member.
 [Nick](Nick.md)
 [Colin](ColinC.md)
 [Brian](Brian.md)
-
+[Jacob](Jacob.md)
