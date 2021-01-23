@@ -14,6 +14,8 @@ Make sure to include a quick description about your team.
 
 Karl Winkler
 
+Henry Wu
+
 Links to each team member's bio page. Add a link for each team member.
 
-[Team Member 1](/member1.md)
+[Carter]
