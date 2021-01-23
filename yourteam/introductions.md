@@ -19,3 +19,4 @@ Henry Wu
 Links to each team member's bio page. Add a link for each team member.
 
 [Carter]
+[Karl]
