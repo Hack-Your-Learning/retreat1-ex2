@@ -4,11 +4,11 @@ description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# Your Chipotle Throwers
+# Chipotle Throwers
 
 This repository includes information about our team. To view information on a team member click the link below.
 
-Make sure to include a quick description about your team.
+Just a bunch of normal people who want to throw their chipotle, as normal people do. 
 
 ## Team Members
 
