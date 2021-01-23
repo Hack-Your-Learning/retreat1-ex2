@@ -16,3 +16,4 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Team Member 1](/member1.md)
 [Team Member 2](/member2.md)
+[ahmed](/member3.md)
