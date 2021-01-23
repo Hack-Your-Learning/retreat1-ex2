@@ -13,5 +13,5 @@ Make sure to include a quick description about your team.
 ## Team Members
 Tyler Witzke
 Links to each team member's bio page. Add a link for each team member.
-help please
+
 [Risat](/risat.md)
