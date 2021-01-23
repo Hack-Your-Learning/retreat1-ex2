@@ -14,4 +14,6 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Nick](member1.md)
+[Nick](member1.md)\
+[jacob](member2.md)\
+[]
