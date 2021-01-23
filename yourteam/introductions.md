@@ -16,3 +16,4 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Victor](Victor.md)
 [Shamez](shamez.md)
+added sum changes
