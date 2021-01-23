@@ -13,7 +13,7 @@ Make sure to include a quick description about your team.
 
 ## Team Members
 
-bio/Terrence: https://github.com/terrencekuan
+bio/Terrence: https://github.com/terrencekuang Hello
 
 Links to each team member's bio page. Add a link for each team member.
 
