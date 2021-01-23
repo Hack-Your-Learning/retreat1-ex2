@@ -12,7 +12,8 @@ Make sure to include a quick description about your team.
 
 ## Team Members
 
+Karl Winkler
+
 Links to each team member's bio page. Add a link for each team member.
 
 [Team Member 1](/member1.md)
-Karl Winkler
