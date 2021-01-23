@@ -4,7 +4,7 @@ description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# Your Team Name
+# THE CHAGS
 
 This repository includes information about our team. To view information on a team member click the link below.
 
