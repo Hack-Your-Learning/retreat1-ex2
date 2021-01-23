@@ -27,11 +27,11 @@ Viet An Truong (Marco)
 Links to each team member's bio page. Add a link for each team member.
 
 
-[Carter](/Carter.md)
+[Carter](Carter.md)
 
 [Karl](karl.md)
 
-[Henry](/henry.md)
+[Henry](henry.md)
 
-[Marco](/Marco.md)
+[Marco](Marco.md)
 
