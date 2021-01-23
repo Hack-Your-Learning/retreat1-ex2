@@ -6,17 +6,16 @@ help: "make a mark down file for each student"
 
 # Your Team Name
 Our Team name is YAGAU
-# Your Team Name : Team Weeb
 
 This repository includes information about our team. To view information on a team member click the link below.
 
 Make sure to include a quick description about your team.
 We Are Team Yagau :)
 
-Kevin - Master Weeb
-Kenny - Manga Mage
-Vanessa - Half Weeb
-Matt - Normie Pleb
+Kevin Van
+Vanessa Chen
+Matt McConnell
+Kenny Jeon 
 
 ## Team Members
 Links to each team member's bio page. Add a link for each team member.
