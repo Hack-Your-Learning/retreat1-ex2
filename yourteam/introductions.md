@@ -12,6 +12,6 @@ This repo includes info about or team. We love coding, especially when there are
 
 Links to each team member's bio page. Add a link for each team member.
 
-https://github.com/ttylong/retreat1-ex2/tree/bio/stalin
-https://github.com/ttylong/retreat1-ex2/tree/bio/tyler
-https://github.com/ttylong/retreat1-ex2/tree/bio/alexis
+<p>https://github.com/ttylong/retreat1-ex2/tree/bio/stalin
+<p>https://github.com/ttylong/retreat1-ex2/tree/bio/tyler
+<p>https://github.com/ttylong/retreat1-ex2/tree/bio/alexis
