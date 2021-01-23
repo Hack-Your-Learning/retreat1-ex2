@@ -4,9 +4,10 @@ description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# team
+# thirteam
 
-Team Description
+This repository includes information about our team. To view information on a team member click the link below.
+We are trying to learn more coding!
 
 ## Tyler
 
