@@ -1,5 +1,6 @@
 <div>
-<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Space Mono', sans-serif;">Hack Your Learning: Session 1 - Part 2
+<img src="https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc2MzAyNDY4NjM0NzgwODQ1/joe-biden-gettyimages-1267438366.jpg">
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Space Mono', sans-serif;">Testing MD Files
 </h1>
 </div>
 
