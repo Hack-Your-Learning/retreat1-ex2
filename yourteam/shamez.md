@@ -1,6 +1,7 @@
 Shamez
 <br />
 <br />
+👇 Scroll down 👇
 <br />
 <br />
 <br />
@@ -25,9 +26,6 @@ Shamez
 <br />
 <br />
 <br />
+Here's a picture of me:
 <br />
-<br />
-<br />
-<br />
-This a picture of me:
 ![Me](https://i.kym-cdn.com/photos/images/newsfeed/001/323/085/7fd.jpg)
