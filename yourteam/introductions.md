@@ -12,11 +12,17 @@ Make sure to include a quick description about your team.
 
 ## Team Members
 
+
+Links to each team member's bio page. Add a link for each team member.
+
+
 Karl Winkler
 
 Henry Wu
 
 Carter Fuchs
+
+Viet An Truong (Marco)
 
 Links to each team member's bio page. Add a link for each team member.
 
@@ -26,3 +32,6 @@ Links to each team member's bio page. Add a link for each team member.
 [Karl](/karl.md)
 
 [Henry](/henry.md)
+
+[Marco](/Marco.md)
+
