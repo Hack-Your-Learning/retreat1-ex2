@@ -68,13 +68,19 @@ Imagine you are working on a big project. It is a big site that has some bugs in
 1. To start this exercise each team member should make a branch to add their personal file to the team folder. To keep things organized use the naming convention `feat/<yourname>/myfile` for this branch.
 2. In your branch create a file in the `yourteam` folder called `<yourname>.md`. In the file type your name for now. Save the changes.
 3. In order to link the main team bio to your page switch back to the `main` branch using `git checkout main`
-4. You will encounter an error because you have local changes that haven't been committed just yet. In order to save these changes while you add your link use the command `git stash`
-5. Now you should be able to successfully checkout the main branch
-6. Add the link to your page on your team's main introduction page. Save the change, commit it, and then push it.
+4. Since you haven't completed your personal page but want to add your name to the team page use the `git stash` command. This will stash the file that you just created.
+5. Now checkout your branch from Exercise 2 - `feat/<yourname>/teamfile`
+6. Add the link to your page on your team's main introduction page. Save the change, commit it.
 
     *Hint:* Review some of the previous documentation if you forget which commands to use for this
 
-7. Move back to the branch you were working on before using the `git checkout` command, and recover your stashed changes using `git stash pop`
+7. Navigate to your Github repo and create a pull request and merge your change into the main repo.
+
+    *Hint:* If you need some help merging and creating a pull request check out [Exercise 3](https://github.com/Hack-Your-Learning/retreat1-ex1#exercise-3-branch) from the first session.
+
+8. Move back to the branch you were working on before using the `git checkout` command, and recover your stashed changes using `git stash pop`
+
+In this exercises you used a pull request to merge, however in Exercise 2 you used the command line to merge and then push to main. Merging locally and then pushing can work well when you are working on an individual project. However, using pull requests is recommended on larger projects.
 
 ## Exercise 4: Some markdown tips and tricks
 
