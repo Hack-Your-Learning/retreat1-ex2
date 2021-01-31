@@ -4,14 +4,26 @@ description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# Your Team Name
+# thirteam
 
-This repository includes information about our team. To view information on a team member click the link below.
+This repo includes info about or team. We love coding, especially when there are many bugs in our code. 
 
-Make sure to include a quick description about your team.
+## Stalin
 
-## Team Members
+I love coding bugs!
+
+## Alexis
+
+I love butterflies!
+
+## Tyler
+
+I don't like bugs...
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Team Member 1](/member1.md)
+https://github.com/ttylong/retreat1-ex2/tree/feat/stalin/myfile
+
+https://github.com/ttylong/retreat1-ex2/tree/feat/alexis/myfile
+
+https://github.com/ttylong/retreat1-ex2/tree/feat/tyler/myfile
