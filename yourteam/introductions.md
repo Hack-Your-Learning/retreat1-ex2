@@ -5,6 +5,7 @@ help: "make a mark down file for each student"
 ---
 
 # Your Team Name
+Member #1
 Ali
 This repository includes information about our team. To view information on a team member click the link below.
 
